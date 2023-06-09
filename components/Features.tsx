@@ -28,7 +28,7 @@ export default function Features() {
       >
         <Feature icon={MoneyBack}>30 days money back guarantee</Feature>
         <Feature icon={HassleFree}>No setup fees, 100% hassle free</Feature>
-        <Feature icon={MonthlySubscription}>
+        <Feature width={'18.5rem'} icon={MonthlySubscription}>
           No Monthly subscription, Pay once and for all
         </Feature>
       </Stack>
