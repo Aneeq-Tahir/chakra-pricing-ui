@@ -28,7 +28,7 @@ export default function Pricing() {
       <Box
         maxW={'62.125rem'}
         m={"auto"}
-        mt={'-52'}
+        mt={'-72'}
         borderRadius={"xl"}
         overflow={"hidden"}
         boxShadow={"xl"}
